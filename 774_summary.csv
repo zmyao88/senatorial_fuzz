@@ -1,0 +1,776 @@
+Senatorial District,State,LGA,unique_lga
+Zone A,Benue,Katsina Ala,benue_katsina_ala
+Zone A,Benue,Konshisha,benue_konshisha
+Zone A,Benue,Kwande,benue_kwande
+Zone A,Benue,Logo,benue_logo
+Zone A,Benue,Ukum,benue_ukum
+Zone A,Benue,Ushongo,benue_ushongo
+Zone A,Benue,Vandeikya,benue_vandeikya
+Zone B,Benue,Buruku,benue_buruku
+Zone B,Benue,Gboko,benue_gboko
+Zone B,Benue,Gwer East,benue_gwer_east
+Zone B,Benue,Gwer West,benue_gwer_west
+Zone B,Benue,Guma,benue_guma
+Zone B,Benue,Makurdi,benue_makurdi
+Zone B,Benue,Tarka,benue_tarka
+Zone C,Benue,Ado,benue_ado
+Zone C,Benue,Agatu,benue_agatu
+Zone C,Benue,Apa,benue_apa
+Zone C,Benue,Obi,benue_obi
+Zone C,Benue,Ogbadibo,benue_ogbadibo
+Zone C,Benue,Ohimini,benue_ohimini
+Zone C,Benue,Oju,benue_oju
+Zone C,Benue,Okpokwu,benue_okpokwu
+Zone C,Benue,Oturkpo,benue_oturkpo
+,FCT,Abuja Municipal,fct_municipal_area_council
+,FCT,Abaji,fct_abaji
+,FCT,Kwali,fct_kwali
+,FCT,Bwari,fct_bwari
+,FCT,Gwagwalada,fct_gwagwalada
+,FCT,Kuje,fct_kuje
+West,Kogi,Kogi,kogi_kogi
+West,Kogi,Kabba Bunu,kogi_kabba_bunu
+West,Kogi,Mopa Muro,kogi_mopa_muro
+West,Kogi,ijumu,kogi_ijumu
+West,Kogi,Yagba East,kogi_yagba_east
+West,Kogi,Yagba West,kogi_yagba_west
+West,Kogi,lokoja,kogi_lokoja
+Central,Kogi,Ajaokuta,kogi_ajaokuta
+Central,Kogi,Ogori Magongo,kogi_ogori_magongo
+Central,Kogi,Okene,kogi_okene
+Central,Kogi,Adavi,kogi_adavi
+Central,Kogi,okehi,kogi_okehi
+East,Kogi,Olamaboro,kogi_olamabolo
+East,Kogi,Ankpa,kogi_ankpa
+East,Kogi,Bassa,kogi_bassa
+East,Kogi,Dekina,kogi_dekina
+East,Kogi,Idah,kogi_idah
+East,Kogi,ibaji,kogi_ibaji
+East,Kogi,Igalamela,kogi_igalamela_odolu
+East,Kogi,Ofu,kogi_ofu
+East,Kogi,Omala,kogi_omala
+Kwara Central,Kwara,Asa,kwara_asa
+Kwara Central,Kwara,Ilorin East,kwara_ilorin_east
+Kwara Central,Kwara,Ilorin West,kwara_ilorin_west
+Kwara Central,Kwara,Ilorin South,kwara_ilorin_south
+Kwara North,Kwara,Baruten,kwara_baruten
+Kwara North,Kwara,Edu,kwara_edu
+Kwara North,Kwara,Kaima,kwara_kaiama
+Kwara North,Kwara,Moro,kwara_moro
+Kwara North,Kwara,Patigi,kwara_patigi
+Kwara South,Kwara,Ekiti,kwara_ekiti
+Kwara South,Kwara,Ifelodun,kwara_ifelodun
+Kwara South,Kwara,Irepoddun,kwara_irepodun
+Kwara South,Kwara,Isin,kwara_isin
+Kwara South,Kwara,Offa,kwara_offa
+Kwara South,Kwara,Oke-Ero,kwara_oke_ero
+Kwara South,Kwara,Oyun,kwara_oyun
+Southern,Nasarawa,Awe,nasarawa_awe
+Southern,Nasarawa,Doma,nasarawa_doma
+Southern,Nasarawa,Keana,nasarawa_keana
+Southern,Nasarawa,Lafia,nasarawa_lafia
+Southern,Nasarawa,Obi,nasarawa_obi
+Northern,Nasarawa,Akwanga,nasarawa_akwanga
+Northern,Nasarawa,Kokona,nasarawa_kokona
+Northern,Nasarawa,Nasarawa Eggon,nasarawa_nasarawa_eggon
+Northern,Nasarawa,Wamba,nasarawa_wamba
+West,Nasarawa,Keffi,nasarawa_keffi
+West,Nasarawa,Karu,nasarawa_karu
+West,Nasarawa,Nasarawa,nasarawa_nasarawa
+West,Nasarawa,Toto,nasarawa_toto
+Zone A,Niger,Agaie,niger_agaie
+Zone A,Niger,Gbako,niger_gbako
+Zone A,Niger,Lavun,niger_lavun
+Zone A,Niger,Katcha,niger_katcha
+Zone A,Niger,bida,niger_bida
+Zone A,Niger,Mokwa,niger_mokwa
+Zone A,Niger,Edati,niger_edati
+Zone A,Niger,Lapai,niger_lapai
+Zone B,Niger,bosso,niger_bosso
+Zone B,Niger,chanchaga,niger_chanchaga
+Zone B,Niger,Shiroro,niger_shiroro
+Zone B,Niger,Gurara,niger_gurara
+Zone B,Niger,Munya,niger_moya
+Zone B,Niger,Rafi,niger_rafi
+Zone B,Niger,suleja,niger_suleja
+Zone B,Niger,tafa,niger_tafa
+Zone B,Niger,Paikoro,niger_paikoro
+Zone C,Niger,Agwara,niger_agwara
+Zone C,Niger,Rijau,niger_rijau
+Zone C,Niger,Magama,niger_magama
+Zone C,Niger,mariga,niger_mariga
+Zone C,Niger,borgu,niger_borgu
+Zone C,Niger,mashegu,niger_mashegu
+Zone C,Niger,Kontangora,niger_kontagora
+Zone C,Niger,Wushishi,niger_wushishi
+Northern,Plateau,Bassa,plateau_bassa
+Northern,Plateau,Barakin Ladi,plateau_barkin_ladi
+Northern,Plateau,Jos East ,plateau_jos_east
+Northern,Plateau,Jos North,plateau_jos_north
+Northern,Plateau,Jos South,plateau_jos_south
+Northern,Plateau,Riyom,plateau_riyom
+Central,Plateau,Bokkos,plateau_bokkos
+Central,Plateau,Kanam,plateau_kanam
+Central,Plateau,Kanke,plateau_kanke
+Central,Plateau,Mangu,plateau_mangu
+Central,Plateau,Pankshin,plateau_pankshin
+Southern,Plateau,Langtang North,plateau_langtan_north
+Southern,Plateau,Langtang South,plateau_langtang_south
+Southern,Plateau,Mikang,plateau_mikang
+Southern,Plateau,Quan'an Pan,plateau_qua_an_pan
+Southern,Plateau,Shendam,plateau_shendam
+Southern,Plateau,Wase,plateau_wase
+Central,Adamawa,hong,adamawa_hong
+Central,Adamawa,yola_south,adamawa_yola_south
+Central,Adamawa,fufore,adamawa_fufore
+Central,Adamawa,girei,adamawa_grie
+Central,Adamawa,song,adamawa_song
+Central,Adamawa,gombi,adamawa_gombi
+Central,Adamawa,yola_north,adamawa_yola_north
+South,Adamawa,numan,adamawa_numan
+South,Adamawa,lamurde,adamawa_larmurde
+South,Adamawa,ganye,adamawa_ganaye
+South,Adamawa,demsa,adamawa_demsa
+South,Adamawa,mayo_belwa,adamawa_mayo_belwa
+South,Adamawa,toungo,adamawa_teungo
+South,Adamawa,jada,adamawa_jada
+South,Adamawa,shelleng,adamawa_shelleng
+South,Adamawa,guyuk,adamawa_gayuk
+North,Adamawa,maiha,adamawa_maiha
+North,Adamawa,michika,adamawa_michika
+North,Adamawa,mubi_north,adamawa_mubi_north
+North,Adamawa,madagali,adamawa_madgali
+North,Adamawa,mubi_south,adamawa_mubi_south
+South,bauchi,bogoro,bauchi_bogoro
+South,bauchi,toro,bauchi_toro
+South,bauchi,tafawa_balewa,bauchi_tafawa_balewa
+South,bauchi,bauchi,bauchi_bauchi
+South,bauchi,kirfi,bauchi_kirfi
+South,bauchi,dass,bauchi_dass
+South,bauchi,alkaleri,bauchi_alkaleri
+Central,bauchi,ningi,bauchi_ningi
+Central,bauchi,darazo,bauchi_darazo
+Central,bauchi,damban,bauchi_damban
+Central,bauchi,warji,bauchi_warji
+Central,bauchi,misau,bauchi_misau
+Central,bauchi,ganjuwa,bauchi_ganjuwa
+North,bauchi,gamawa,bauchi_gamawa
+North,bauchi,katagum,bauchi_katagum
+North,bauchi,zaki,bauchi_zakki
+North,bauchi,shira,bauchi_shira
+North,bauchi,itas_gadau,bauchi_itas_gadau
+North,bauchi,giade,bauchi_giade
+North,bauchi,jama_are,bauchi_jama_are
+South,borno,damboa,borno_damboa
+South,borno,biu,borno_biu
+South,borno,gwoza,borno_gwoza
+South,borno,hawul,borno_hawul
+South,borno,chibok,borno_chibok
+South,borno,askira_uba,borno_askira_uba
+South,borno,kwaya_kusar,borno_kwaya_kusar
+South,borno,shani,borno_shani
+South,borno,bayo,borno_bayo
+Central,borno,maiduguri,borno_maiduguri
+Central,borno,jere,borno_jere
+Central,borno,bama,borno_bama
+Central,borno,konduga,borno_konduga
+Central,borno,ngala,borno_ngala
+Central,borno,mafa,borno_mafa
+Central,borno,kala_balge,borno_kala_balge
+Central,borno,dikwa,borno_dikwa
+North,borno,marte,borno_marte
+North,borno,monguno,borno_monguno
+North,borno,abadam,borno_abadam
+North,borno,mobbar,borno_mobbar
+North,borno,guzamala,borno_guzamala
+North,borno,nganzai,borno_nganzai
+North,borno,magumeri,borno_magumeri
+North,borno,kaga,borno_kaga
+North,borno,gubio,borno_gubio
+North,borno,kukawa,borno_kukawa
+South,gombe,kaltungo,gombe_kaltungo
+South,gombe,shomgom,gombe_shongom
+South,gombe,billiri,gombe_billiri
+South,gombe,balanga,gombe_balanga
+Central,gombe,yamaltu_deba,gombe_yalmatu_deba
+Central,gombe,akko,gombe_akko
+North,gombe,funakaye,gombe_funakaye
+North,gombe,dukku,gombe_dukku
+North,gombe,nafada,gombe_nafada
+North,gombe,gombe,gombe_gombe
+North,gombe,kwami,gombe_kwami
+Central,taraba,gassol,taraba_gassol
+Central,taraba,gashaka,taraba_gashaka
+Central,taraba,bali,taraba_bali
+Central,taraba,kurmi,taraba_kurmi
+Central,taraba,sardauna,taraba_sardauna
+South,taraba,wukari,taraba_wukari
+South,taraba,ussa,taraba_ussa
+South,taraba,donga,taraba_donga
+South,taraba,takum,taraba_takum
+South,taraba,ibi,taraba_ibi
+North,taraba,karim_lamido,taraba_karin_lamido
+North,taraba,zing,taraba_zing
+North,taraba,jalingo,taraba_jalingo
+North,taraba,yorro,taraba_yorro
+North,taraba,ardo_kola,taraba_ardo_kola
+North,taraba,lau,taraba_lau
+North,yobe,yusufari,yobe_yusufari
+North,yobe,bade,yobe_barde
+North,yobe,jakusko,yobe_jakusko
+North,yobe,karasuwa,yobe_karasuwa
+North,yobe,nguru,yobe_nguru
+North,yobe,machina,yobe_machina
+South,yobe,potiskum,yobe_potiskum
+South,yobe,fika,yobe_fika
+South,yobe,fune,yobe_fune
+South,yobe,nangere,yobe_nangere
+Central,yobe,geidam,yobe_geidam
+Central,yobe,bursari,yobe_bosari
+Central,yobe,gujba,yobe_gujba
+Central,yobe,gulani,yobe_gulani
+Central,yobe,tarmuwa,yobe_tarmuwa
+Central,yobe,yunusari,yobe_yunusari
+Central,yobe,damaturu,yobe_damaturu
+Central,Jigawa,Birnin Kudu,jigawa_birnin_kudu
+Central,Jigawa,Buji,jigawa_buji
+Central,Jigawa,Dutse,jigawa_dutse
+Central,Jigawa,Gwaram,jigawa_gwaram
+Central,Jigawa,Jahun,jigawa_jahun
+Central,Jigawa,Kiyawa,jigawa_kiyawa
+Central,Jigawa,Miga,jigawa_miga
+Eastern,Jigawa,Auyo,jigawa_auyo
+Eastern,Jigawa,Birniwa,jigawa_biriniwa
+Eastern,Jigawa,Guri,jigawa_guri
+Eastern,Jigawa,Hadejia,jigawa_hadejia
+Eastern,Jigawa,K/Hausa,jigawa_kafin_hausa
+Eastern,Jigawa,K/Kasamma,jigawa_kiri_kasama
+Eastern,Jigawa,Kaugama,jigawa_kuagama
+Eastern,Jigawa,M/Madori,jigawa_malam_maduri
+Eastern,Jigawa,Ringim,jigawa_ringim
+Western,Jigawa,Babura,jigawa_babura
+Western,Jigawa,Gumel,jigawa_gumel
+Western,Jigawa,Garki,jigawa_garki
+Western,Jigawa,Gwiwa,jigawa_gwiwa
+Western,Jigawa,Gagarawa,jigawa_gagarawa
+Western,Jigawa,Kazaure,jigawa_kazaure
+Western,Jigawa,Maigatari,jigawa_maigatari
+Western,Jigawa,Roni,jigawa_roni
+Western,Jigawa,Sule Tankarkar,jigawa_sule_tankakar
+Western,Jigawa,Taura,jigawa_taura
+Western,Jigawa,Yankwashi,jigawa_yankwashi
+Central,Kaduna,Igabi,kaduna_igabi
+Central,Kaduna,Chikun,kaduna_chikun
+Central,Kaduna,Giwa,kaduna_giwa
+Central,Kaduna,Kaduna South,kaduna_kaduna_south
+Central,Kaduna,Kaduna North,kaduna_kaduna_north
+Central,Kaduna,Kajuru,kaduna_kajuru
+Central,Kaduna,Birnin Gwari,kaduna_birnin_gwari
+Northern,Kaduna,Kubau,kaduna_kubau
+Northern,Kaduna,Lere,kaduna_lere
+Northern,Kaduna,Makarfi,kaduna_makarfi
+Northern,Kaduna,Zaria,kaduna_zaria
+Northern,Kaduna,Sabon Gari,kaduna_sabon_gari
+Northern,Kaduna,Soba,kaduna_soba
+Northern,Kaduna,Ikara,kaduna_ikara
+Northern,Kaduna,Kudan,kaduna_kudan
+Southern,Kaduna,Sanga,kaduna_sanga
+Southern,Kaduna,Kaura,kaduna_kaura
+Southern,Kaduna,Zangon Kataf,kaduna_zangon_kataf
+Southern,Kaduna,Kauru,kaduna_kauru
+Southern,Kaduna,Kachia,kaduna_kachia
+Southern,Kaduna,Kagarko,kaduna_kagarko
+Southern,Kaduna,Jema'a,kaduna_jema_a
+Southern,Kaduna,Jaba,kaduna_jaba
+Central,Kano,Municipal,kano_kano_municipal
+Central,Kano,Fagge,kano_fagge
+Central,Kano,Gwale,kano_gwale
+Central,Kano,Nassarawa,kano_nassarawa
+Central,Kano,Kumbotso,kano_kumbotso
+Central,Kano,Tarauni,kano_tarauni
+Central,Kano,Dala,kano_dala
+Central,Kano,D/ kudu,kano_dawakin_kudu
+Central,Kano,Gabasawa,kano_gabasawa
+Central,Kano,Gezawa,kano_gazewa
+Central,Kano,G/malam,kano_garun_mallam
+Central,Kano,Kura,kano_kura
+Central,Kano,Madobi,kano_madobi
+Central,Kano,Ungoggo,kano_ungogo
+Central,Kano,Warawa,kano_warawa
+Northern,Kano,Bagwai,kano_bagwai
+Northern,Kano,D/tofa,kano_tofa
+Northern,Kano,Tofa,kano_tofa
+Northern,Kano,Tsanyawa,kano_tsanyawa
+Northern,Kano,Kunchi,kano_kunchi
+Northern,Kano,Bichi,kano_bichi
+Northern,Kano,Shanono,kano_shanono
+Northern,Kano,Danbatta,kano_dambatta
+Northern,Kano,Makoda,kano_makoda
+Northern,Kano,R/gado,kano_rimin_gado
+Northern,Kano,Kabo,kano_kabo
+Northern,Kano,Gwarzo,kano_gwarzo
+Northern,Kano,Minjibir,kano_minjibir
+Southern,Kano,Ajingi,kano_ajingi
+Southern,Kano,Albasu,kano_albasu
+Southern,Kano,Bebeji,kano_bebeji
+Southern,Kano,Kiru,kano_kiru
+Southern,Kano,Gaya,kano_gaya
+Southern,Kano,Garko,kano_garko
+Southern,Kano,Sumaila,kano_sumaila
+Southern,Kano,Takai,kano_takai
+Southern,Kano,kibiya,kano_kibiya
+Southern,Kano,Bunkure,kano_bunkure
+Southern,Kano,wudil,kano_wudil
+Southern,Kano,T/wada,kano_tudun_wada
+Southern,Kano,Doguwa,kano_doguwa
+Southern,Kano,Rano,kano_rano
+Southern,Kano,Rogo,kano_rogo
+Southern,Kano,Karaye,kano_karaye
+Central,Katsina,Katsina,katsina_katsina
+Central,Katsina,Batsari,katsina_batsari
+Central,Katsina,Dutsin ma,katsina_dutsin_ma
+Central,Katsina,Rimi,katsina_rimi
+Central,Katsina,Batagarawa,katsina_batagarawa
+Central,Katsina,Dan musa,katsina_dan_musa
+Central,Katsina,Charanchi,katsina_charanchi
+Central,Katsina,Kurfi,katsina_kurfi
+Central,Katsina,Safana,katsina_safana
+Central,Katsina,Kaita,katsina_kaita
+Central,Katsina,Jibia,katsina_jibia
+Northern,Katsina,Mashi,katsina_mashi
+Northern,Katsina,Bindawa,katsina_bindawa
+Northern,Katsina,Ingawa,katsina_ingawa
+Northern,Katsina,Dutsi,katsina_dutsi
+Northern,Katsina,Zango,katsina_zango
+Northern,Katsina,Kankia,katsina_kankia
+Northern,Katsina,Sandamu,katsina_sandamu
+Northern,Katsina,Daura,katsina_daura
+Northern,Katsina,Maiadua,katsina_mai_adua
+Northern,Katsina,Mani,katsina_mani
+Northern,Katsina,Kusada,katsina_kusada
+Northern,Katsina,Baure,katsina_baure
+Southern,Katsina,Funtua,katsina_funtua
+Southern,Katsina,Kafur,katsina_kafur
+Southern,Katsina,Bakori,katsina_bakori
+Southern,Katsina,Kankara,katsina_kankara
+Southern,Katsina,Malumfashi,katsina_malumfashi
+Southern,Katsina,Sabua,katsina_sabuwa
+Southern,Katsina,Faskari,katsina_faskari
+Southern,Katsina,Danja,katsina_danja
+Southern,Katsina,Dandume,katsina_dandume
+Southern,Katsina,Matazu,katsina_matazu
+Southern,Katsina,Musawa,katsina_musawa
+Central,Kebbi,Aliero,kebbi_aliero
+Central,Kebbi,Birnin Kebbi,kebbi_birnin_kebbi
+Central,Kebbi,Gwandu,kebbi_gwandu
+Central,Kebbi,Jega,kebbi_jega
+Central,Kebbi,Maiyama,kebbi_maiyama
+Central,Kebbi,Koko Besse,kebbi_koko_besse
+Central,Kebbi,Kalgo,kebbi_kalgo
+Central,Kebbi,Bunza,kebbi_bunza
+Northern,Kebbi,Augie,kebbi_augie
+Northern,Kebbi,Argungu,kebbi_argungu
+Northern,Kebbi,Arewa,kebbi_arewa_dandi
+Northern,Kebbi,Bagudo,kebbi_bagudo
+Northern,Kebbi,Dandi,kebbi_dandi
+Northern,Kebbi,Suru,kebbi_suru
+Southern,Kebbi,Danko Wasagu,kebbi_wasagu_danko
+Southern,Kebbi,Fakai,kebbi_fakai
+Southern,Kebbi,Ngaski,kebbi_ngaski
+Southern,Kebbi,Sakaba,kebbi_sakaba
+Southern,Kebbi,Shanga,kebbi_shanga
+Southern,Kebbi,Yauri,kebbi_yauri
+Southern,Kebbi,Zuru,kebbi_zuru
+Central,Sokoto,Silame,sokoto_silame
+Central,Sokoto,Wamakko,sokoto_wammako
+Central,Sokoto,Gudu,sokoto_gudu
+Central,Sokoto,Kware,sokoto_kware
+Central,Sokoto,Binji,sokoto_binji
+Central,Sokoto,Sokoto South,sokoto_sokoto_south
+Central,Sokoto,Tangaza,sokoto_tangaza
+Central,Sokoto,Sokoto North,sokoto_sokoto_north
+Eastern,Sokoto,Illela,sokoto_illela
+Eastern,Sokoto,Gada,sokoto_gada
+Eastern,Sokoto,Gwadabawa,sokoto_gwadabawa
+Eastern,Sokoto,Wurno,sokoto_wurno
+Eastern,Sokoto,Rabah,sokoto_rabah
+Eastern,Sokoto,Gwaranyo,sokoto_wurno
+Eastern,Sokoto,Isah,sokoto_isa
+Eastern,Sokoto,Sabon-Birni,sokoto_sabon_birni
+Western,Sokoto,Yabo,sokoto_yabo
+Western,Sokoto,Shagari,sokoto_shagari
+Western,Sokoto,Bodinga,sokoto_bodinga
+Western,Sokoto,Tureta,sokoto_tureta
+Western,Sokoto,Tambuwal,sokoto_tambuwal
+Western,Sokoto,Kebbe,sokoto_kebbe
+Western,Sokoto,Dange-Shuni,sokoto_dange_shuni
+Central,Zamfara,Maru,zamfara_maru
+Central,Zamfara,Gusau,zamfara_gusau
+Central,Zamfara,Bungudu,zamfara_bungudu
+Central,Zamfara,Tsafe,zamfara_tsafe
+Eastern,Zamfara,Zurmi,zamfara_zurmi
+Eastern,Zamfara,Kaura_Namoda,zamfara_kaura_namoda
+Eastern,Zamfara,Shinkafi,zamfara_shinkafi
+Eastern,Zamfara,Birnin_Magaji,zamfara_birnin_magaji
+Western,Zamfara,Talata_mafara,zamfara_talata_mafara
+Western,Zamfara,Maradun,zamfara_maradun
+Western,Zamfara,Gummi,zamfara_gummi
+Western,Zamfara,Bakura,zamfara_bakura
+Western,Zamfara,Anka,zamfara_anka
+Western,Zamfara,Bukkuyum,zamfara_bukkuyum
+Abia Central,Abia,Umuahia North,abia_umuahia_north
+Abia Central,Abia,Umuahia South,abia_umuahia_south
+Abia Central,Abia,Isiala Ngwa North,abia_isiala_ngwa_north
+Abia Central,Abia,Isiala Ngwa South,abia_isiala_ngwa_south
+Abia Central,Abia,Osisioma Ngwa,abia_osisioma_ngwa
+Abia Central,Abia,Ikwuano,abia_ikwuano
+Abia North,Abia,Arochukwu,abia_arochukwu
+Abia North,Abia,Ohafia,abia_ohafia
+Abia North,Abia,Bende,abia_bende
+Abia North,Abia,Umunneochi,abia_umu_neochi
+Abia North,Abia,Isuikwuato,abia_isuikwuato
+Abia South,Abia,Ukwa East,abia_ukwa_east
+Abia South,Abia,Ukwa West,abia_ukwa_west
+Abia South,Abia,Ugwunagbo,abia_ugwunagbo
+Abia South,Abia,Aba North,abia_aba_north
+Abia South,Abia,Aba South,abia_aba_south
+Abia South,Abia,Obingwa,abia_obi_nwa
+Anambra North,Anambra,Anambra West,anambra_anambra_west
+Anambra North,Anambra,Anambra East,anambra_anambra_east
+Anambra North,Anambra,Oyi,anambra_oyi
+Anambra North,Anambra,Onitsha North,anambra_onitsha_north
+Anambra North,Anambra,Onitsha South,anambra_onitsha_north
+Anambra North,Anambra,Anaocha,anambra_anaocha
+Anambra North,Anambra,Awka South,anambra_awka_south
+Anambra Central,Anambra,Ayamelum,anambra_ayamelum
+Anambra Central,Anambra,Ogbaru,anambra_ogbaru
+Anambra Central,Anambra,Idemili South,anambra_idemili_south
+Anambra Central,Anambra,Idemili North,anambra_idemili_north
+Anambra Central,Anambra,Njikoka,anambra_njikoka
+Anambra Central,Anambra,Orumba South,anambra_orumba_south
+Anambra Central,Anambra,Aguata,anambra_aguata
+Anambra South,Anambra,Awka North,anambra_awka_north
+Anambra South,Anambra,Dunukofia,anambra_dunukofia
+Anambra South,Anambra,Nnewi South,anambra_nnewi_south
+Anambra South,Anambra,Nnewi North,anambra_nnewi_north
+Anambra South,Anambra,Ekwusigo,anambra_ekwusigo
+Anambra South,Anambra,Ihiala,anambra_ihiala
+Anambra South,Anambra,Orumba North,anambra_orumba_north
+Ebonyi South,Ebonyi,Afikpo-North,ebonyi_afikpo_north
+Ebonyi South,Ebonyi,Ohaozara,ebonyi_ohaozara
+Ebonyi South,Ebonyi,Ivo,ebonyi_ivo
+Ebonyi South,Ebonyi,Afikpo-South,ebonyi_afikpo_south
+Ebonyi North,Ebonyi,Ishielu,ebonyi_ishielu
+Ebonyi North,Ebonyi,Onicha,ebonyi_onicha
+Ebonyi North,Ebonyi,Ebonyi,ebonyi_ebonyi
+Ebonyi North,Ebonyi,Abakaliki,ebonyi_abakaliki
+Ebonyi North,Ebonyi,Izzi,ebonyi_izzi
+Ebonyi Central,Ebonyi,Ohaukwu,ebonyi_ohaukwu
+Ebonyi Central,Ebonyi,Ikwo,ebonyi_ikwo
+Ebonyi Central,Ebonyi,Ezza-North,ebonyi_ezza_north
+Ebonyi Central,Ebonyi,Ezza-South,ebonyi_ezza_south
+Enugu West,Enugu,Aninri ,enugu_aninri
+Enugu West,Enugu,Awgu,enugu_awgu
+Enugu West,Enugu,Oji-River,enugu_oji_river
+Enugu West,Enugu,Udi,enugu_udi
+Enugu West,Enugu,Ezeagu,enugu_ezeagu
+Enugu West,Enugu,Enugu South,enugu_enugu_south
+Enugu North,Enugu,Nsukka,enugu_nsukka
+Enugu North,Enugu,Igbo-Etiti,enugu_igbo_etiti
+Enugu North,Enugu,Igboeze South,enugu_igbo_eze_south
+Enugu North,Enugu,Igboeze North,enugu_igbo_eze_north
+Enugu North,Enugu,Uzo-Uwani,enugu_uzo_uwani
+Enugu North,Enugu,Udenu,enugu_udenu
+Enugu East,Enugu,Isiuzo,enugu_isi_uzo
+Enugu East,Enugu,Enugu East,enugu_enugu_east
+Enugu East,Enugu,Enugu North,enugu_enugu_north
+Enugu East,Enugu,Nkanu East,enugu_nkanu_west
+Enugu East,Enugu,Nkanu West,enugu_nkanu_west
+Owerri,Imo,Aboh_Mbaise,imo_aboh_mbaise
+Owerri,Imo,Ahiazu_Mbaise,imo_ahiazu_mbaise
+Owerri,Imo,Ezinihitte,imo_ezinihitte
+Owerri,Imo,Mbaitoli,imo_mbaitoli
+Owerri,Imo,Ngor_Okpala,imo_ngor_okpala
+Owerri,Imo,Obowo,imo_obowo
+Owerri,Imo,Owerri_Municipal,imo_owerri_municipal
+Owerri,Imo,Owerri_North,imo_owerri_north
+Owerri,Imo,Owerri_West,imo_owerri_west
+Orlu,Imo,Njaba,imo_njaba
+Orlu,Imo,Nkwerre,imo_nkwerre
+Orlu,Imo,Nwangele,imo_nwangele
+Orlu,Imo,Oguta,imo_oguta
+Orlu,Imo,Ohaji_Egbema,imo_ohaji_egbema
+Orlu,Imo,Orlu,imo_orlu
+Orlu,Imo,Orsu,imo_orsu
+Orlu,Imo,Oru_East,imo_oru_east
+Orlu,Imo,Oru_West,imo_oru_west
+Okigwe,Imo,Ehime_Mbano,imo_ehime_mbano
+Okigwe,Imo,Ideato_North,imo_ideato_north
+Okigwe,Imo,Ideato_South,imo_ideato_south
+Okigwe,Imo,Ihitte_Uboma,imo_ihitte_uboma
+Okigwe,Imo,Ikeduru,imo_ikeduru
+Okigwe,Imo,Isiala_Mbano,imo_isiala_mbano
+Okigwe,Imo,Isu,imo_isu
+Okigwe,Imo,Okigwe,imo_okigwe
+Okigwe,Imo,Onuimo,imo_unuimo
+Edo North,Edo,Owan East,edo_owan_east
+Edo North,Edo,Owan West,edo_owan_west
+Edo North,Edo,Akoko Edo,edo_akoko_edo
+Edo North,Edo,Etsako East,edo_etsako_east
+Edo North,Edo,Etsako Central,edo_etsako_central
+Edo North,Edo,Etsako West,edo_etsako_west
+Edo Central,Edo,Igueben,edo_iguegben
+Edo Central,Edo,Esan West,edo_esan_west
+Edo Central,Edo,Esan Central,edo_esan_central
+Edo Central,Edo,Esan South East,edo_esan_south_east
+Edo Central,Edo,Esan North East,edo_esan_north_east
+Edo South,Edo,Ovia North East,edo_ovia_north_east
+Edo South,Edo,Ovia South West,edo_ovia_south_west
+Edo South,Edo,Egor,edo_egor
+Edo South,Edo,Ikpoba-Okha,edo_ikpoba_okha
+Edo South,Edo,Orhionmwon,edo_ohionmwon
+Edo South,Edo,Uhunmwonde,edo_uhunmwonde
+Edo South,Edo,Oredo,edo_oredo
+Rivers West,Rivers,Abua-Odual,rivers_abua_odual
+Rivers West,Rivers,Ahoada-East,rivers_ahoada_east
+Rivers West,Rivers,Ahoada-West,rivers_ahoada_west
+Rivers West,Rivers,Akuku-Toru,rivers_akuku_toru
+Rivers West,Rivers,Asari-Toru,rivers_asari_toru
+Rivers West,Rivers,Bonny,rivers_bonny
+Rivers West,Rivers,Degema,rivers_degema
+Rivers West,Rivers,Ogba_Egbema_Ndoni,rivers_ogba_egbema_ndoni
+Rivers East,Rivers,Etche,rivers_etche
+Rivers East,Rivers,Ikwerre,rivers_ikwerre
+Rivers East,Rivers,Obio/Akpor,rivers_obio_akpor
+Rivers East,Rivers,Okrika,rivers_okrika
+Rivers East,Rivers,Omuma,rivers_omuma
+Rivers East,Rivers,Emuoha,rivers_emuoha
+Rivers East,Rivers,Ogu-Bolo,rivers_ogo_bolo
+Rivers East,Rivers,Port Harcourt,rivers_port_harcourt
+Rivers South East,Rivers,Andoni,rivers_andoni
+Rivers South East,Rivers,Gokana,rivers_gokana
+Rivers South East,Rivers,Khana,rivers_khana
+Rivers South East,Rivers,Opobo/Nkoro,rivers_opobo_nkoro
+Rivers South East,Rivers,Oyigbo,rivers_oyigbo
+Rivers South East,Rivers,Tai,rivers_tai
+Rivers South East,Rivers,Eleme,rivers_eleme
+Uyo Senatorial District,Akwa-Ibom,Etinam,akwa_ibom_etinan
+Uyo Senatorial District,Akwa-Ibom,Itu,akwa_ibom_itu
+Uyo Senatorial District,Akwa-Ibom,Nsit-Atai,akwa_ibom_nsit_atai
+Uyo Senatorial District,Akwa-Ibom,Uruan,akwa_ibom_uruan
+Uyo Senatorial District,Akwa-Ibom,Uyo,akwa_ibom_uyo
+Uyo Senatorial District,Akwa-Ibom,Ibiono-Ibom,akwa_ibom_ibiono_ibom
+Uyo Senatorial District,Akwa-Ibom,Nsit-Ibom,akwa_ibom_nsit_ibom
+Uyo Senatorial District,Akwa-Ibom,Nsit-Ubium,akwa_ibom_nsit_ubuim
+Uyo Senatorial District,Akwa-Ibom,Ibesikpo/Asutan,akwa_ibom_ibesikpo_asutan
+Uyo Senatorial District,Akwa-Ibom,Uyo,akwa_ibom_uyo
+Eket Senatorial District,Akwa-Ibom,Eastern Obolo,akwa_ibom_eastern_obolo
+Eket Senatorial District,Akwa-Ibom,Eket,akwa_ibom_eket
+Eket Senatorial District,Akwa-Ibom,Ibeno,akwa_ibom_ibeno
+Eket Senatorial District,Akwa-Ibom,Mbo,akwa_ibom_mbo
+Eket Senatorial District,Akwa-Ibom,Okobo,akwa_ibom_okobo
+Eket Senatorial District,Akwa-Ibom,Onna,akwa_ibom_onna
+Eket Senatorial District,Akwa-Ibom,Udung_Uko,akwa_ibom_udung_uko
+Eket Senatorial District,Akwa-Ibom,Urue Offiong/Oruko,akwa_ibom_urue_offong_oruko
+Eket Senatorial District,Akwa-Ibom,Oron,akwa_ibom_oron
+Eket Senatorial District,Akwa-Ibom,Ikot_Abasi,akwa_ibom_ikot_abasi
+Eket Senatorial District,Akwa-Ibom,Mkpat_Enin,akwa_ibom_mpkat_enin
+Eket Senatorial District,Akwa-Ibom,Esit_Eket,akwa_ibom_esit_eket
+Ikot Ekpene Senatorial District,Akwa-Ibom,Abak,akwa_ibom_abak
+Ikot Ekpene Senatorial District,Akwa-Ibom,Essien Udim,akwa_ibom_essien_udim
+Ikot Ekpene Senatorial District,Akwa-Ibom,Etim-Ekpo,akwa_ibom_etim_eko
+Ikot Ekpene Senatorial District,Akwa-Ibom,Ikono,akwa_ibom_ikono
+Ikot Ekpene Senatorial District,Akwa-Ibom,Ikot-Ekpene,akwa_ibom_ikot_ekpene
+Ikot Ekpene Senatorial District,Akwa-Ibom,Obot Akara,akwa_ibom_obot_akara
+Ikot Ekpene Senatorial District,Akwa-Ibom,Ukanafun,akwa_ibom_ukanafun
+Ikot Ekpene Senatorial District,Akwa-Ibom,Oruk_Anam,akwa_ibom_oruk_anam
+Ikot Ekpene Senatorial District,Akwa-Ibom,Ika,akwa_ibom_ika
+Ikot Ekpene Senatorial District,Akwa-Ibom,Ini,akwa_ibom_ini
+Cross-River Central Senatorial District,Cross-River ,Abi,cross_river_abi
+Cross-River Central Senatorial District,Cross-River ,Boki,cross_river_boki
+Cross-River Central Senatorial District,Cross-River ,Etung,cross_river_etung
+Cross-River Central Senatorial District,Cross-River ,Ikom,cross_river_ikom
+Cross-River Central Senatorial District,Cross-River ,Obubra,cross_river_obubra
+Cross-River Central Senatorial District,Cross-River ,Yakurr,cross_river_yakurr
+Cross-River North Senatorial District,Cross-River ,Bekwara,cross_river_bekwara
+Cross-River North Senatorial District,Cross-River ,Obanliku,cross_river_obanliku
+Cross-River North Senatorial District,Cross-River ,Obudu,cross_river_obudu
+Cross-River North Senatorial District,Cross-River ,Ogoja,cross_river_ogoja
+Cross-River North Senatorial District,Cross-River ,Yala,cross_river_yala
+Cross-River South Senatorial District,Cross-River ,Calabar Municipal,cross_river_calabar_municipal
+Cross-River South Senatorial District,Cross-River ,Calabar South,cross_river_calabar_south
+Cross-River South Senatorial District,Cross-River ,Baise,cross_river_biase
+Cross-River South Senatorial District,Cross-River ,Akamkpa,cross_river_akamkpa
+Cross-River South Senatorial District,Cross-River ,Akpabuyo,cross_river_akpabuyo
+Cross-River South Senatorial District,Cross-River ,Bakassi,cross_river_bakassi
+Cross-River South Senatorial District,Cross-River ,Odukpani,cross_river_odukpani
+Bayelsa West Senatorial District,Bayelsa,Ekeremor,bayelsa_ekeremor
+Bayelsa West Senatorial District,Bayelsa,Sagbama,bayelsa_sagbama
+Bayelsa Central Senatorial District,Bayelsa,Kolokuma/Opokuma,bayelsa_kolokuma
+Bayelsa Central Senatorial District,Bayelsa,Southern Ijaw,bayelsa_southern_ijaw
+Bayelsa Central Senatorial District,Bayelsa,Yenagoa,bayelsa_yenagoa
+Bayelsa East Senatorial District,Bayelsa,Brass,bayelsa_brass
+Bayelsa East Senatorial District,Bayelsa,Nembe,bayelsa_nembe
+Bayelsa East Senatorial District,Bayelsa,Ogbia,bayelsa_ogbia
+Delta Central Senatorial District,Delta,Ethiope East,bayelsa_ethiope_east
+Delta Central Senatorial District,Delta,Ethiope West,bayelsa_ethiope_west
+Delta Central Senatorial District,Delta,Okpe,bayelsa_okpe
+Delta Central Senatorial District,Delta,Sapele,bayelsa_sapele
+Delta Central Senatorial District,Delta,Udu,bayelsa_udu
+Delta Central Senatorial District,Delta,Ughelli North,bayelsa_ughelli_north
+Delta Central Senatorial District,Delta,Ughelli South,bayelsa_ughelli_south
+Delta Central Senatorial District,Delta,Uvwie,bayelsa_uvwie
+Delta North Senatorial District,Delta,Ukwuani,bayelsa_ukwuani
+Delta North Senatorial District,Delta,Aniocha North,bayelsa_aniocha_north
+Delta North Senatorial District,Delta,Aniocha South,bayelsa_aniocha_south
+Delta North Senatorial District,Delta,Oshimili North,bayelsa_oshimili_north
+Delta North Senatorial District,Delta,Ika North East,bayelsa_ika_north_east
+Delta North Senatorial District,Delta,Ika South,bayelsa_ika_south
+Delta North Senatorial District,Delta,Oshimili South,bayelsa_oshimili_south
+Delta North Senatorial District,Delta,Ndokwa East ,bayelsa_ndokwa_east
+Delta North Senatorial District,Delta,Ndokwa West,bayelsa_ndokwa_west
+Delta South Senatorial District,Delta,Bomadi,bayelsa_ogbia
+Delta South Senatorial District,Delta,Burutu,bayelsa_burutu
+Delta South Senatorial District,Delta,Isoko North,bayelsa_isoko_north
+Delta South Senatorial District,Delta,Isoko South,bayelsa_isoko_south
+Delta South Senatorial District,Delta,Patani,bayelsa_patani
+Delta South Senatorial District,Delta,Warri North,bayelsa_warri_north
+Delta South Senatorial District,Delta,Warri South,bayelsa_warri_south
+Delta South Senatorial District,Delta,Warri South West,bayelsa_warri_south_west
+Ekiti Central,Ekiti,Ado_ekiti,ekiti_ado_ekiti
+Ekiti Central,Ekiti,Efon,ekiti_efon
+Ekiti Central,Ekiti,Ijero,ekiti_ijero
+Ekiti Central,Ekiti,Irepodun Ifelodun,ekiti_irepodun_ifelodun
+Ekiti Central,Ekiti,Ekiti West,ekiti_ekiti_west
+Ekiti North,Ekiti,Ilejemeje,ekiti_ilejemeje
+Ekiti North,Ekiti,Ikole,ekiti_ikole
+Ekiti North,Ekiti,Ido Osi,ekiti_ido_osi
+Ekiti North,Ekiti,Moba,ekiti_moba
+Ekiti North,Ekiti,Oye,ekiti_oye
+Ekiti South,Ekiti,Ise Orun,ekiti_ise_orun
+Ekiti South,Ekiti,Gbonyin,ekiti_gbonyin
+Ekiti South,Ekiti,Ikere,ekiti_ikere
+Ekiti South,Ekiti,Ekiti East,ekiti_ekiti_east
+Ekiti South,Ekiti,Ekiti South West,ekiti_ekiti_south_west
+Ekiti South,Ekiti,Emure,ekiti_emure
+Lagos Central,Lagos,Surulere,lagos_surulere
+Lagos Central,Lagos,Lagos Mainland,lagos_lagos_mainland
+Lagos Central,Lagos,Apapa,lagos_apapa
+Lagos Central,Lagos,Lagos Island,lagos_lagos_island
+Lagos Central,Lagos,Mushin,lagos_mushin
+Lagos Central,Lagos,Eti Osa,lagos_eti_osa
+Lagos East,Lagos,Kosofe,lagos_kosofe
+Lagos East,Lagos,Ikorodu,lagos_ikorodu
+Lagos East,Lagos,Shomolu,lagos_shomolu
+Lagos East,Lagos,Epe,lagos_epe
+Lagos East,Lagos,Ibeju Lekki,lagos_ibeju_lekki
+Lagos West,Lagos,Alimosho,lagos_alimosho
+Lagos West,Lagos,Amuwo Odofin,lagos_amuwo_odofin
+Lagos West,Lagos,Oshodi Isolo,lagos_oshodi_isolo
+Lagos West,Lagos,Ajeromi Ifelodun,lagos_ajeromi_ifelodun
+Lagos West,Lagos,Badagry,lagos_badagry
+Lagos West,Lagos,Ojo,lagos_ojo
+Lagos West,Lagos,Ifako Ijaye,lagos_ifako_ijaye
+Lagos West,Lagos,Agege,lagos_agege
+Lagos West,Lagos,Ikeja,lagos_ikeja
+Ogun Central,Ogun,Ifo,ogun_ifo
+Ogun Central,Ogun,Obafemi Owode,ogun_obafemi_owode
+Ogun Central,Ogun,Abeokuta South,ogun_abeokuta_south
+Ogun Central,Ogun,Abeokuta North,ogun_abeokuta_north
+Ogun Central,Ogun,Ewekoro,ogun_ewekoro
+Ogun Central,Ogun,Odeda,ogun_odeda
+Ogun East,Ogun,Ijebu Ode,ogun_ijebu_ode
+Ogun East,Ogun,Ijebu East,ogun_ijebu_east
+Ogun East,Ogun,Shagamu,ogun_shagamu
+Ogun East,Ogun,Ijebu North,ogun_ijebu_north
+Ogun East,Ogun,Ijebu North East,ogun_ijebu_north_east
+Ogun East,Ogun,Ikenne,ogun_ikenne
+Ogun East,Ogun,Odogbolu,ogun_odogbolu
+Ogun East,Ogun,Ogun Waterside,ogun_ogun_waterside
+Ogun East,Ogun,Remo North,ogun_remo_north
+Ogun West,Ogun,Ado-Odo Ota,ogun_ado_odo_ota
+Ogun West,Ogun,Egbado North,ogun_egbado_north
+Ogun West,Ogun,Egbado South,ogun_egbado_south
+Ogun West,Ogun,Ipokia,ogun_ipokia
+Ogun West,Ogun,Imeko Afon,ogun_imeko_afon
+Ondo Central,Ondo,Akure South,ondo_akure_south
+Ondo Central,Ondo,Ondo West,ondo_ondo_west
+Ondo Central,Ondo,Ifedore,ondo_ifedore
+Ondo Central,Ondo,Idanre,ondo_idanre
+Ondo Central,Ondo,Akure North,ondo_akure_north
+Ondo Central,Ondo,Ondo East,ondo_ondo_east
+Ondo North,Ondo,Akoko South West,ondo_akoko_south_west
+Ondo North,Ondo,Akoko North East,ondo_akoko_north_east
+Ondo North,Ondo,Akoko North West,ondo_akoko_north_west
+Ondo North,Ondo,Owo,ondo_owo
+Ondo North,Ondo,Ose,ondo_ose
+Ondo North,Ondo,Akoko South East,ondo_akoko_south_east
+Ondo South,Ondo,Irele,ondo_irele
+Ondo South,Ondo,Okitipupa,ondo_okitipupa
+Ondo South,Ondo,Ese Odo,ondo_ese_odo
+Ondo South,Ondo,Ilaje,ondo_ijaye
+Ondo South,Ondo,Odigbo,ondo_odigbo
+Ondo South,Ondo,Ile Oluji Okeigbo,ondo_ile_oluji_okeigbo
+Osun Central,Osun,Osogbo,osun_osogbo
+Osun Central,Osun,Olorunda,osun_olorunda
+Osun Central,Osun,Ifelodun,osun_ifelodun
+Osun Central,Osun,Ila,osun_ila
+Osun Central,Osun,Orolu,osun_orolu
+Osun Central,Osun,Boripe,osun_boripe
+Osun Central,Osun,Boluwaduro,osun_boluwaduro
+Osun Central,Osun,Odo Otin,osun_odo_otin
+Osun Central,Osun,Ifedayo,osun_ifedayo
+Osun Central,Osun,Irepodun,osun_irepodun
+Osun East,Osun,Ilesha East,osun_ilesha_east
+Osun East,Osun,Ife East,osun_ife_east
+Osun East,Osun,Atakunmosa West,osun_atakunmosa_west
+Osun East,Osun,Oriade,osun_oriade
+Osun East,Osun,Obokun,osun_obokun
+Osun East,Osun,Ilesha West,osun_ilesha_west
+Osun East,Osun,Ife Central,osun_ife_central
+Osun East,Osun,Ife South,osun_ife_south
+Osun East,Osun,Atakunmosa East,osun_atakunmosa_east
+Osun East,Osun,Ife North,osun_ife_north
+Osun West,Osun,Irewole,osun_irewole
+Osun West,Osun,Ede South,osun_ede_south
+Osun West,Osun,Ejigbo,osun_ejigbo
+Osun West,Osun,Egbedore,osun_egbedore
+Osun West,Osun,Aiyedade,osun_ayedaade
+Osun West,Osun,Iwo,osun_iwo
+Osun West,Osun,Isokan,osun_isokan
+Osun West,Osun,Ede North,osun_ede_north
+Osun West,Osun,Aiyedire,osun_ayedire
+Osun West,Osun,Ola Oluwa,osun_ola_oluwa
+Oyo Central,Oyo,Ona Ara,oyo_ona_ara
+Oyo Central,Oyo,Oyo West,oyo_oyo_east
+Oyo Central,Oyo,Oluyole,oyo_oluyole
+Oyo Central,Oyo,Akinyele,oyo_akinyele
+Oyo Central,Oyo,Lagelu,oyo_lagelu
+Oyo Central,Oyo,Ogo Oluwa,oyo_ogo_oluwa
+Oyo Central,Oyo,Egbeda,oyo_egbeda
+Oyo Central,Oyo,Surulere,oyo_surulere
+Oyo Central,Oyo,Oyo East,oyo_oyo_east
+Oyo Central,Oyo,Atiba,oyo_atiba
+Oyo Central,Oyo,Afijio,oyo_afijio
+Oyo North,Oyo,Oriire,oyo_oriire
+Oyo North,Oyo,Ogbomoso North,oyo_ogbomoso_north
+Oyo North,Oyo,Irepo,oyo_irepo
+Oyo North,Oyo,Saki West,oyo_saki_west
+Oyo North,Oyo,Kajola,oyo_kajola
+Oyo North,Oyo,Ogbomoso South,oyo_ogbomoso_south
+Oyo North,Oyo,Iseyin,oyo_iseyin
+Oyo North,Oyo,Iwajowa,oyo_iwajowa
+Oyo North,Oyo,Saki East,oyo_saki_east
+Oyo North,Oyo,Atisbo,oyo_atisbo
+Oyo North,Oyo,Orelope,oyo_orelope
+Oyo North,Oyo,Itesiwaju,oyo_itesiwaju
+Oyo North,Oyo,Olorunsogo,oyo_olorunsogo
+Oyo South,Oyo,Ibadan North East,oyo_ibadan_north_east
+Oyo South,Oyo,Ibarapa East,oyo_ibarapa_east
+Oyo South,Oyo,Ibadan South East,oyo_ibadan_south_east
+Oyo South,Oyo,Ibadan South West,oyo_ibadan_south_west
+Oyo South,Oyo,Ibadan North West,oyo_ibadan_north_west
+Oyo South,Oyo,Ibadan North,oyo_ibadan_north
+Oyo South,Oyo,Ibarapa North,oyo_ibarapa_north
+Oyo South,Oyo,Ibarapa Central,oyo_ibarapa_central
+Oyo South,Oyo,Ido,oyo_ido
